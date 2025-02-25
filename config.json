@@ -1,0 +1,5 @@
+{
+  "token": "TOKEN",
+  "serverId": "メッセージを監視したいサーバーID",
+  "logChannelId": "メッセージ編集、削除のログを送信するチャンネルID"
+}
