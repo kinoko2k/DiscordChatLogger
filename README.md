@@ -1,4 +1,4 @@
-# DiscordMsgLogger
+# DiscordChatLogger
 Discordに送信したメッセージを、csv形式で保存し、ログチャンネルに送信するコードです。
 
 使用する前に、以下のライブラリをインストールする必要があります。
